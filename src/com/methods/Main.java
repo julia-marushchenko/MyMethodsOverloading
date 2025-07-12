@@ -17,7 +17,7 @@ public class Main {
         return sum;
     }
 
-    // Method get to sum two integers
+    // Method get to sum two doubles
     public double add(double number, double number1){
         double sum = number + number1;
         return sum;
